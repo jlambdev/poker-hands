@@ -1,4 +1,6 @@
-** Requirements **
+#poker-hands
+
+## Requirements
 
 Your job is to compare poker hands and to indicate which has the higher hand.
 
@@ -14,7 +16,7 @@ White wins. - with flush
 Black wins. - with high card: 9
 Tie.
 
-** POKER RULES **
+## Poker Rules
 
 A poker deck contains 52 cards = each card has a suit which is one of clubs, diamonds, hearts
 or spades (denoted C, D, H and S in the input data). Each card also has a value which is one
